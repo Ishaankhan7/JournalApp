@@ -16,6 +16,8 @@
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
+		<sonar.organization>ishaankhan7</sonar.organization>
+
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
